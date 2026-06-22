@@ -12,7 +12,7 @@
 # Przyklad:
 # bmw-m4-nocna-sesja.jpg
 # porsche-911-tor.jpg
-DSC03285.jpg
+1337.jpg
 DSC02674.jpg
 DSC02505.jpg
 DSC02445.jpg
