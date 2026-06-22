@@ -1,0 +1,18 @@
+# To jest lista zdjec dla tej galerii.
+# Jak dodac nowe zdjecie:
+# 1. Wgraj plik zdjecia do tego samego folderu co ten plik (np. moje-zdjecie.jpg)
+# 2. Dopisz ponizej samą nazwę pliku w nowej linii (bez "#" na poczatku)
+# 3. Zapisz / zrob commit na GitHub - strona zaktualizuje sie automatycznie
+#
+# Linie zaczynajace sie od # sa ignorowane (to tylko notatki, mozesz je usunac).
+# Kolejnosc zdjec na liscie = kolejnosc zdjec na stronie.
+#
+# Filmy (mp4/webm/mov) tez dzialaja - dodaj nazwe pliku tak samo jak zdjecie.
+#
+# Przyklad:
+# bmw-m4-nocna-sesja.jpg
+# porsche-911-tor.jpg
+DSC03285.jpg
+DSC02674.jpg
+DSC02505.jpg
+DSC02445.jpg
